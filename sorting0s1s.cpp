@@ -4,7 +4,10 @@ int main(){
 
   /* expected output: 
       given array --> 1 0 1 1 0 0
-      output array --> 0 0 0 1 1 1 */
+      output array --> 0 0 0 1 1 1
+      
+      --to be done using 2 pointer approach--
+      */
   
   
     //making array
